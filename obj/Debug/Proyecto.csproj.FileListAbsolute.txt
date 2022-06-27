@@ -1,0 +1,14 @@
+C:\Users\misae\source\repos\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\misae\source\repos\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\misae\source\repos\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\misae\source\repos\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\misae\source\repos\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\misae\source\repos\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\misae\source\repos\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\misae\source\repos\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\misae\source\repos\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\misae\source\repos\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\misae\source\repos\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\misae\source\repos\Proyecto\bin\Debug\System.Data.SqlClient.dll
+C:\Users\misae\source\repos\Proyecto\bin\Debug\System.Data.SqlClient.xml
+C:\Users\misae\source\repos\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
